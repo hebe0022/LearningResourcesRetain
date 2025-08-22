@@ -40,6 +40,12 @@ A declarative agent project contains the following important files and folders:
 * appPackage: This folder contains source files that are included in the app package, including the app manifest and declarative agent manifest.
 * env: This folder contains environment files that Microsoft 365 Agents Toolkit uses to hold values used in workflows.
 
+# Starter Project
+[Starter Project](https://pages.github.com/](https://github.com/microsoft/learn-declarative-agent-vscode)
 
+Join the Microsoft 365 Developer Program
+https://developer.microsoft.com/en-us/microsoft-365/dev-program
+
+<img width="558" height="148" alt="image" src="https://github.com/user-attachments/assets/f9a73802-337e-4166-9779-c096289660c2" />
 
   

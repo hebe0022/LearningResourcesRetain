@@ -11,3 +11,10 @@ learning paths
 Extend Microsoft 365 Copilot in Copilot Studio
 Extend Microsoft 365 Copilot with declarative agents using Visual Studio Code
 MS-4010 - Extend Microsoft 365 Copilot with declarative agents by using Visual Studio Code
+
+You build declarative agents with low-code using:
+
+Microsoft Copilot Studio
+SharePoint Online
+Microsoft Admin Center
+Or with pro-code, by using Visual Studio Code.

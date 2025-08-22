@@ -48,4 +48,43 @@ https://developer.microsoft.com/en-us/microsoft-365/dev-program
 
 <img width="558" height="148" alt="image" src="https://github.com/user-attachments/assets/f9a73802-337e-4166-9779-c096289660c2" />
 
-  
+# Verify Permissions 
+
+<img width="318" height="181" alt="image" src="https://github.com/user-attachments/assets/7e919a84-2c25-4f86-b9ca-334807bd0239" />
+
+# Provision
+
+https://learn.microsoft.com/en-us/microsoftteams/platform/toolkit/provision?from=teamstoolkit
+
+<img width="1191" height="772" alt="image" src="https://github.com/user-attachments/assets/ffa28e95-12e3-429a-a9ec-4541c0d82dd1" />
+
+# Grounding
+
+Use the following capabilities to add extra data and context:
+
+WebSearch: Use Bing.com web search results.
+GraphConnectors: Use data ingested into Microsoft 365 by using a Copilot connector.
+OneDriveAndSharePoint: Use documents stored in OneDrive, or SharePoint Online sites.
+Dataverse: Use data stored in Dataverse.
+TeamsMessages: Use messages from Microsoft Teams channels, chats, and meetings.
+People: Use data about people in Microsoft 365.
+
+# Capabilities
+
+"capabilities": [
+    {
+        "name": "OneDriveAndSharePoint",
+        "items_by_url": [
+            {
+                "url": "url"
+            }
+        ]
+    }
+
+# Conversation Starters
+
+"conversation_starters": [
+    {
+        "title": "Product information",
+        "text": "Tell me about Eagle Air"
+    },

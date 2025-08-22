@@ -7,3 +7,7 @@ https://learn.microsoft.com/en-us/credentials/applied-skills/accelerate-app-deve
 
 https://learn.microsoft.com/en-us/training/modules/copilot-declarative-agent-intro/
 
+learning paths
+Extend Microsoft 365 Copilot in Copilot Studio
+Extend Microsoft 365 Copilot with declarative agents using Visual Studio Code
+MS-4010 - Extend Microsoft 365 Copilot with declarative agents by using Visual Studio Code

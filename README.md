@@ -4,3 +4,6 @@ A centralized repository for all my training materials, guides, notes, and refer
 # Copilot
 
 https://learn.microsoft.com/en-us/credentials/applied-skills/accelerate-app-development-by-using-github-copilot/
+
+https://learn.microsoft.com/en-us/training/modules/copilot-declarative-agent-intro/
+
